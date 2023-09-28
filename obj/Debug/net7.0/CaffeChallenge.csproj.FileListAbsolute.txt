@@ -1,0 +1,4 @@
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\csharpBasics\CaffeChallenge\obj\Debug\net7.0\CaffeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\csharpBasics\CaffeChallenge\obj\Debug\net7.0\CaffeChallenge.AssemblyInfoInputs.cache
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\csharpBasics\CaffeChallenge\obj\Debug\net7.0\CaffeChallenge.AssemblyInfo.cs
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\csharpBasics\CaffeChallenge\obj\Debug\net7.0\CaffeChallenge.csproj.CoreCompileInputs.cache
